@@ -1,1 +1,1 @@
-Hellow,git!
+print("Hellow,git!")
